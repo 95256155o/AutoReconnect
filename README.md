@@ -1,4 +1,4 @@
-# AutoReconnect [1.18.x][Forge][Client]
+# AutoReconnect [1.19.2][Forge][Client]
 
 ### Description
 
